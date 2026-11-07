@@ -1,0 +1,146 @@
+[
+  {
+    "id": "candidate-001",
+    "exposure": 16758,
+    "signal": 0.509,
+    "urgency": 6
+  },
+  {
+    "id": "candidate-002",
+    "exposure": 66193,
+    "signal": 0.649,
+    "urgency": 9
+  },
+  {
+    "id": "candidate-003",
+    "exposure": 58438,
+    "signal": 0.277,
+    "urgency": 5
+  },
+  {
+    "id": "candidate-004",
+    "exposure": 8163,
+    "signal": 0.547,
+    "urgency": 2
+  },
+  {
+    "id": "candidate-005",
+    "exposure": 8312,
+    "signal": 0.559,
+    "urgency": 1
+  },
+  {
+    "id": "candidate-006",
+    "exposure": 39659,
+    "signal": 0.526,
+    "urgency": 6
+  },
+  {
+    "id": "candidate-007",
+    "exposure": 5986,
+    "signal": 0.76,
+    "urgency": 6
+  },
+  {
+    "id": "candidate-008",
+    "exposure": 65729,
+    "signal": 0.683,
+    "urgency": 4
+  },
+  {
+    "id": "candidate-009",
+    "exposure": 59838,
+    "signal": 0.274,
+    "urgency": 7
+  },
+  {
+    "id": "candidate-010",
+    "exposure": 7779,
+    "signal": 0.558,
+    "urgency": 8
+  },
+  {
+    "id": "candidate-011",
+    "exposure": 87577,
+    "signal": 0.173,
+    "urgency": 8
+  },
+  {
+    "id": "candidate-012",
+    "exposure": 14632,
+    "signal": 0.253,
+    "urgency": 1
+  },
+  {
+    "id": "candidate-013",
+    "exposure": 21293,
+    "signal": 0.479,
+    "urgency": 4
+  },
+  {
+    "id": "candidate-014",
+    "exposure": 17077,
+    "signal": 0.385,
+    "urgency": 2
+  },
+  {
+    "id": "candidate-015",
+    "exposure": 88376,
+    "signal": 0.134,
+    "urgency": 9
+  },
+  {
+    "id": "candidate-016",
+    "exposure": 15256,
+    "signal": 0.205,
+    "urgency": 5
+  },
+  {
+    "id": "candidate-017",
+    "exposure": 19918,
+    "signal": 0.231,
+    "urgency": 8
+  },
+  {
+    "id": "candidate-018",
+    "exposure": 17690,
+    "signal": 0.608,
+    "urgency": 1
+  },
+  {
+    "id": "candidate-019",
+    "exposure": 62695,
+    "signal": 0.4,
+    "urgency": 6
+  },
+  {
+    "id": "candidate-020",
+    "exposure": 80259,
+    "signal": 0.626,
+    "urgency": 6
+  },
+  {
+    "id": "candidate-021",
+    "exposure": 34167,
+    "signal": 0.666,
+    "urgency": 1
+  },
+  {
+    "id": "candidate-022",
+    "exposure": 66955,
+    "signal": 0.782,
+    "urgency": 8
+  },
+  {
+    "id": "candidate-023",
+    "exposure": 48972,
+    "signal": 0.108,
+    "urgency": 1
+  },
+  {
+    "id": "candidate-024",
+    "exposure": 49298,
+    "signal": 0.677,
+    "urgency": 4
+  }
+]
